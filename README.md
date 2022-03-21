@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xCrashdriverx
-- 👀 I’m interested in linguagem Back-End
+- 👀 I’m interested in linguagem Front-End
 - 🌱 I’m currently learning Desenhar Páginas para Web
-- 💞️ I’m looking to collaborate on qualquer projeto relacionado a c++ 
 - 📫 How to reach me (11)961105283 or email: sergiocoulto@outlook.com
 
 <!---
